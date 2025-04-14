@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="60">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="60">
-
+</br>
 <img alt="Open in Visual Studio Code" src="https://img.shields.io/badge/Open%20in%20VS%20Code-007ACC?logo=visual-studio-code&logoColor=white">
 <img alt="Contributors" src="https://img.shields.io/github/contributors/aradhya2708/nids">
 <img alt="Forks" src="https://img.shields.io/github/forks/aradhya2708/nids?style=social">
