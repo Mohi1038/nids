@@ -127,6 +127,10 @@ NIDS analyzes multiple attributes, such as:
 
 ---
 
+### 🔗 Resources
+- 📄 **[Project Report](https://drive.google.com/file/d/1qLTRAscNorWcRLni7awWf6N4fko7jUcs/view)** – Comprehensive documentation covering architecture, implementation, and results.
+- 🌐 **[Project Page](https://nids-2ndswaps-projects.vercel.app/)** – Learn about the project.
+
 ### 📃 License
 NIDS is open-source under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
